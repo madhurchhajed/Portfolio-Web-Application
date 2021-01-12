@@ -1,7 +1,7 @@
 # Portfolio-Web-Application
 This is a web application developed as a first hands on Django.
 
-The homepage has all the work or project shown.
+The homepage shows basic info about the person and has all the work or project.
 The project shown here have image and text in the model.
 Their is further a button which navigate to composing mail with the default mail app.
 Their is a navigation button which has 3 link : 
